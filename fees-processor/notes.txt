@@ -1,0 +1,5 @@
+1.Delegation Principle/Chain of Responsibiliy
+2.Strategy Design Pattern : file type reader algo switch
+3.Favour Compostion over Inhertince
+4.Progtram for interface not for impl
+5.mODULARIZATION

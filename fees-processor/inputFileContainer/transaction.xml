@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transactions>
+ <transaction>
+   <externalId>SAPEXTXN1</externalId>
+   <clientId>GS</clientId>
+   <securityId>ICICI</securityId>
+   <transactionType>BUY</transactionType>
+   <transactionDate>11/23/2013</transactionDate>
+   <marketValue>101.90</marketValue>
+   <priorityFlag>Y</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN2</externalId>
+   <clientId>AS</clientId>
+   <securityId>REL</securityId>
+   <transactionType>SELL</transactionType>
+   <transactionDate>11/20/2013</transactionDate>
+   <marketValue>121.90</marketValue>
+   <priorityFlag>N</priorityFlag> 
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN3</externalId>
+   <clientId>AP</clientId>
+   <securityId>HINDALCO</securityId>
+   <transactionType>DEPOSIT</transactionType>
+   <transactionDate>11/19/2013</transactionDate>
+   <marketValue>120</marketValue>
+   <priorityFlag>Y</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN4</externalId>
+   <clientId>HJ</clientId>
+   <securityId>RELIND</securityId>
+   <transactionType>WITHDRAW</transactionType>
+   <transactionDate>11/30/2013</transactionDate>
+   <marketValue>230</marketValue>
+   <priorityFlag>N</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+ 	<externalId>SAPEXTXN5</externalId>
+   <clientId>GS</clientId>
+   <securityId>RELIND</securityId>
+   <transactionType>WITHDRAW</transactionType>
+   <transactionDate>11/26/2013</transactionDate>
+   <marketValue>330</marketValue>
+   <priorityFlag>Y</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN6</externalId>
+   <clientId>AP</clientId>
+   <securityId>ICICI</securityId>
+   <transactionType>SELL</transactionType>
+   <transactionDate>11/25/2013</transactionDate>
+   <marketValue>100</marketValue>
+   <priorityFlag>Y</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN7</externalId>
+   <clientId>AS</clientId>
+   <securityId>REL</securityId>
+   <transactionType>BUY</transactionType>
+   <transactionDate>11/06/2013</transactionDate>
+   <marketValue>121.10</marketValue>
+   <priorityFlag>N</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN8</externalId>
+   <clientId>GS</clientId>
+   <securityId>RELIND</securityId>
+   <transactionType>DEPOSIT</transactionType>
+   <transactionDate>11/11/2013</transactionDate>
+   <marketValue>300</marketValue>
+   <priorityFlag>Y</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN9</externalId>
+   <clientId>AP</clientId>
+   <securityId>ICICI</securityId>
+   <transactionType>BUY</transactionType>
+   <transactionDate>11/09/2013</transactionDate>
+   <marketValue>400</marketValue>
+   <priorityFlag>Y</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN10</externalId>
+   <clientId>AS</clientId>
+   <securityId>REL</securityId>
+   <transactionType>SELL</transactionType>
+   <transactionDate>11/13/2013</transactionDate>
+   <marketValue>521.10</marketValue>
+   <priorityFlag>N</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN11</externalId>
+   <clientId>GS</clientId>
+   <securityId>ICICI</securityId>
+   <transactionType>WITHDRAW</transactionType>
+   <transactionDate>11/01/2013</transactionDate>
+   <marketValue>101.90</marketValue>
+   <priorityFlag>Y</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN12</externalId>
+   <clientId>AS</clientId>
+   <securityId>REL</securityId>
+   <transactionType>DEPOSIT</transactionType>
+   <transactionDate>11/02/2013</transactionDate>
+   <marketValue>121.90</marketValue>
+   <priorityFlag>N</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN13</externalId>
+   <clientId>AP</clientId>
+   <securityId>HINDALCO</securityId>
+   <transactionType>BUY</transactionType>
+   <transactionDate>11/03/2013</transactionDate>
+   <marketValue>110</marketValue>
+   <priorityFlag>Y</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN14</externalId>
+   <clientId>HJ</clientId>
+   <securityId>RELIND</securityId>
+   <transactionType>SELL</transactionType>
+   <transactionDate>11/04/2013</transactionDate>
+   <marketValue>330</marketValue>
+   <priorityFlag>N</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN15</externalId>
+   <clientId>GS</clientId>
+   <securityId>RELIND</securityId>
+   <transactionType>WITHDRAW</transactionType>
+   <transactionDate>11/05/2013</transactionDate>
+   <marketValue>430</marketValue>
+   <priorityFlag>Y</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN16</externalId>
+   <clientId>AP</clientId>
+   <securityId>ICICI</securityId>
+   <transactionType>DEPOSIT</transactionType>
+   <transactionDate>11/06/2013</transactionDate>
+   <marketValue>500</marketValue>
+   <priorityFlag>Y</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN17</externalId>
+   <clientId>AS</clientId>
+   <securityId>REL</securityId>
+   <transactionType>SELL</transactionType>
+   <transactionDate>11/06/2013</transactionDate>
+   <marketValue>621.10</marketValue>
+   <priorityFlag>N</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN18</externalId>
+   <clientId>GS</clientId>
+   <securityId>RELIND</securityId>
+   <transactionType>BUY</transactionType>
+   <transactionDate>11/08/2013</transactionDate>
+   <marketValue>500</marketValue>
+   <priorityFlag>Y</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN19</externalId>
+   <clientId>AP</clientId>
+   <securityId>ICICI</securityId>
+   <transactionType>BUY</transactionType>
+   <transactionDate>11/09/2013</transactionDate>
+   <marketValue>100</marketValue>
+   <priorityFlag>Y</priorityFlag>
+ </transaction>
+ 
+ <transaction>
+   <externalId>SAPEXTXN20</externalId>
+   <clientId>AS</clientId>
+   <securityId>REL</securityId>
+   <transactionType>SELL</transactionType>
+   <transactionDate>11/10/2013</transactionDate>
+   <marketValue>721.10</marketValue>
+   <priorityFlag>N</priorityFlag>
+ </transaction>
+ 
+</transactions>
